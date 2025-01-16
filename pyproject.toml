@@ -1,0 +1,12 @@
+[project]
+name = "revisit-py-examples"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "altair[all]>=5.5.0",
+    "jupyter>=1.1.1",
+    "revisit>=0.0.21",
+    "scipy>=1.15.1",
+]
