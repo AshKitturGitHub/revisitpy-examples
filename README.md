@@ -1,0 +1,11 @@
+# Running Examples
+
+The simplest way to get started is using the package manager `uv`. If you don't have `uv`, please see [hear](https://docs.astral.sh/uv/getting-started/installation/).
+
+Once you have `uv` installed, run the following:
+
+```bash
+uv install
+```
+
+This will create the virtual environment. When running a jupyter notebook, use the `ipykernel` that is in the `.venv` directory when prompted.
