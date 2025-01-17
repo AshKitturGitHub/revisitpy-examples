@@ -1,6 +1,6 @@
 # Running Examples
 
-The simplest way to get started is using the package manager `uv`. If you don't have `uv`, please see [hear](https://docs.astral.sh/uv/getting-started/installation/).
+The simplest way to get started is using the package manager `uv`. If you don't have `uv`, please see [here](https://docs.astral.sh/uv/getting-started/installation/).
 
 Once you have `uv` installed, run the following:
 

@@ -8,5 +8,6 @@ dependencies = [
     "altair[all]>=5.5.0",
     "jupyter>=1.1.1",
     "revisit>=0.0.21",
+    "revisit-server>=0.0.13",
     "scipy>=1.15.1",
 ]
