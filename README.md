@@ -9,3 +9,8 @@ uv install
 ```
 
 This will create the virtual environment. When running a jupyter notebook, use the `ipykernel` that is in the `.venv` directory when prompted.
+
+
+## Creating Markdown files
+
+jupyter nbconvert --to markdown --template=mdoutput example_jnd_study/example_jnd_study.ipynb
