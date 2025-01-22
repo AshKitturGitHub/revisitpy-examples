@@ -1445,25 +1445,25 @@ requires-dist = [
 
 [[package]]
 name = "revisitpy"
-version = "0.1.3"
+version = "0.1.4"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "anywidget" },
     { name = "pandas" },
     { name = "pydantic" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/97/a2/6335636cacbe602032a084a1a503bb70b3e7c5bb340c55b97a875c5d67ef/revisitpy-0.1.3.tar.gz", hash = "sha256:45a0ab7aa9a8252bb229e619c433c7fb0780b01728cb7c7b3c3da637842024f2", size = 96108 }
+sdist = { url = "https://files.pythonhosted.org/packages/43/da/71800172eb03f2dd2fbd7772002dd8c1a473cc43aa3792471f531c7c2216/revisitpy-0.1.4.tar.gz", hash = "sha256:aba15dc9b0749d959e7f7217a16496c31d8bd46344c5cf3a34882dae61bb1152", size = 97951 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/49/86/922cfafc1d06abfa82b0f5f0b939e1b00a87b6e86b3e50149e1868c65d78/revisitpy-0.1.3-py2.py3-none-any.whl", hash = "sha256:7eb61bd89282b9f6c849ec1c8cca4f59afebaf34f0c672571e49db68c185df0e", size = 98057 },
+    { url = "https://files.pythonhosted.org/packages/5a/34/8c497bfc3309853440ead54cc2c8dd5ad261d1723aa3cbaebf5582170494/revisitpy-0.1.4-py2.py3-none-any.whl", hash = "sha256:29ecb57b5805cfdbf51addaaec9d7b9c882aa3a79c89f698cf0e388535871a5d", size = 99870 },
 ]
 
 [[package]]
 name = "revisitpy-server"
-version = "0.1.1"
+version = "0.1.3"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/72/f6/58e047e4ac01ded1836987c7cde9239ebeffa0a9b44b78569237b94c886f/revisitpy_server-0.1.1.tar.gz", hash = "sha256:d72bd362006514fde1ef87e9b09c9567ed6c7670fae89ec963daec4b9835151c", size = 44915406 }
+sdist = { url = "https://files.pythonhosted.org/packages/db/9d/886f8f33d2a19f8ed0dc7fd7aaf3480122be7dbd064eba6194735300547d/revisitpy_server-0.1.3.tar.gz", hash = "sha256:a1c71e4c2da0bde29fa62e5860397ce72e498f68ab768d8c7fd54890b361bf5d", size = 40290268 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/41/ac/f8e616d471f63195d57a60c580f1618683b6196ba5ce05498b068c754528/revisitpy_server-0.1.1-py2.py3-none-any.whl", hash = "sha256:ba5a3003d38a7626826b5b20bef27fd8a312f705005f307d84110c7bfeed4b09", size = 45073712 },
+    { url = "https://files.pythonhosted.org/packages/fc/48/019277de69101ad2cb3f2d6d1dd1d38c94612168f07f789d87cc9a9d3e34/revisitpy_server-0.1.3-py2.py3-none-any.whl", hash = "sha256:a3552da7a6a06d13f16307e34a24d8eecd64beac8d58ea5936910535a97696ae", size = 40450780 },
 ]
 
 [[package]]
